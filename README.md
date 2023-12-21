@@ -3,8 +3,7 @@ Multi-Class Prediction of Cirrhosis Outcomes- Kaggle Competition
 
 ## kaggle_cirrhosis_prediction.ipynb
 Conducted full stack machine learning:  <br>
-
-  -exploratory data analysis (EDA)
+  &emsp;  -exploratory data analysis (EDA)
   -data normalization
   -feature selection (ANOVA T-Test & LASSO)
   -data over/undersampling (SMOTE)
